@@ -23,3 +23,6 @@ v0.3 Features 13/10/2025
 -Create state for Maghreb countries (tunisia, west sahara, algeria, morroco)
 
 -Add new flags for Syria and Myanmar
+
+v0.4 Features 14/10/2025
+-Add Myanmar and the civil war belligerants
