@@ -26,3 +26,7 @@ v0.3 Features 13/10/2025
 
 v0.4 Features 14/10/2025
 -Add Myanmar and the civil war belligerants
+-Add Libyan states (Tripoli and Tobruk Government)
+-Add South Yemen, Yemen, Houthis
+-Add Hezbollah, Hamas
+-Add South African and Bengali Flag
